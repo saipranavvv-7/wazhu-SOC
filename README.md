@@ -1,1 +1,2 @@
 # Wazuh RAG Copilot
+

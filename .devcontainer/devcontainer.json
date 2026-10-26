@@ -1,1 +1,5 @@
-
+{
+  "name": "wazuh-rag",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "forwardPorts": [8000]
+}
